@@ -1,3 +1,6 @@
+-- Reference for order of execution: https://sqlbolt.com/lesson/select_queries_order_of_execution
+
+
 /*
 1) Write a SELECT statement that returns four columns from the Products table: product_code, product_name, list_price, and discount_percent.
 Add an ORDER BY clause to this statement that sorts the result set by list price in descending sequence. */
