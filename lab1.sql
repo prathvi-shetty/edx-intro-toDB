@@ -1,4 +1,4 @@
--- Reference for order of execution: https://sqlbolt.com/lesson/select_queries_order_of_execution
+-- Reference for order of execution of SQL queries: https://sqlbolt.com/lesson/select_queries_order_of_execution
 
 
 /*
